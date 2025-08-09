@@ -1,0 +1,22 @@
+/* selector por etiqueta */
+
+header h1{
+  color: blue;
+}
+
+h2
+{
+  color: green;
+}
+
+/* selector por clase */
+
+.texto1 {
+    color: red;
+}
+
+/* selector por id */
+
+#texto2 {
+    color: purple;
+}
