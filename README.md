@@ -10,8 +10,9 @@ Este proyecto es un blog sencillo hecho en HTML que muestra curiosidades sobre l
 ## Características
 
 - Página web estática desarrollada en HTML.
-- Muestra artículos con curiosidades sobre los gatos.
+- Todos los artículos están dedicados exclusivamente a curiosidades sobre los gatos.
 - Incluye imágenes de gatos.
+- Incluye imágenes ilustrativas de gatos (`gato1.jpg`).
 - Pie de página con información de contacto.
 
 ## Uso
@@ -33,3 +34,11 @@ Para dudas o sugerencias, puedes escribir a: [info@gatos.com](mailto:info@gatos.
 ---
 
 **Nota:** Las imágenes no están incluidas en el repositorio, ya que la carpeta `imagenes/` está en el archivo `.gitignore`.
+
+## Cambios recientes
+
+- Se eliminó la referencia a `style.css` para simplificar el proyecto.
+- El pie de página ahora indica únicamente "Blog de Gatos".
+- Todos los artículos y el contenido están enfocados solo en gatos.
+- Se eliminó el subtítulo y cualquier referencia a perros.
+- El proyecto sigue siendo completamente HTML y no requiere dependencias externas.
